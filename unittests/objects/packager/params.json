@@ -1,0 +1,45 @@
+{
+    "function": {
+        "globals": {},
+        "co": {
+            "co_argcount": 1,
+            "co_cellvars": [],
+            "co_code": [
+                116,
+                0,
+                124,
+                0,
+                131,
+                1,
+                1,
+                0,
+                100,
+                0,
+                83,
+                0
+            ],
+            "co_consts": [
+                null
+            ],
+            "co_filename": "/home/dcdrugs/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/task/\u0420\u0438\u043d\u0430/main.py",
+            "co_firstlineno": 32,
+            "co_flags": 67,
+            "co_freevars": [],
+            "co_kwonlyargcount": 0,
+            "co_lnotab": [
+                0,
+                1
+            ],
+            "co_name": "params",
+            "co_names": [
+                "print"
+            ],
+            "co_nlocals": 1,
+            "co_posonlyargcount": 0,
+            "co_stacksize": 2,
+            "co_varnames": [
+                "x"
+            ]
+        }
+    }
+}
