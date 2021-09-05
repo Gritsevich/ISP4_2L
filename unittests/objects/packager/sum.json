@@ -1,0 +1,40 @@
+{
+    "function": {
+        "globals": {},
+        "co": {
+            "co_argcount": 2,
+            "co_cellvars": [],
+            "co_code": [
+                124,
+                0,
+                124,
+                1,
+                23,
+                0,
+                83,
+                0
+            ],
+            "co_consts": [
+                null
+            ],
+            "co_filename": "/home/dcdrugs/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/task/\u0420\u0438\u043d\u0430/main.py",
+            "co_firstlineno": 36,
+            "co_flags": 67,
+            "co_freevars": [],
+            "co_kwonlyargcount": 0,
+            "co_lnotab": [
+                0,
+                1
+            ],
+            "co_name": "sum",
+            "co_names": [],
+            "co_nlocals": 2,
+            "co_posonlyargcount": 0,
+            "co_stacksize": 2,
+            "co_varnames": [
+                "x",
+                "y"
+            ]
+        }
+    }
+}
